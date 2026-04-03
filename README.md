@@ -106,7 +106,7 @@ OR open it in browser manually.
 
 ## 👨‍💻 Author
 
-* Developed by: *Your Name*
+* Developed by: Joijode Akhila
 
 ---
 
@@ -116,6 +116,4 @@ This project is for educational purposes.
 
 ---
 
-## ❤️ Support
 
-If you like this project, consider improving it further or adding backend support!
